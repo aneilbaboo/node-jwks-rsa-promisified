@@ -1,0 +1,26 @@
+{
+  "name": "jwks-rsa-promisified",
+  "version": "1.0.0",
+  "description": "Promisified version of auth0/node-jwks-rsa, retrieve RSA public keys from a JWKS endpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneilbaboo/node-jwks-rsa-promisified.git"
+  },
+  "author": "Aneil Mallavarapu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aneilbaboo/node-jwks-rsa-promisified/issues"
+  },
+  "homepage": "https://github.com/aneilbaboo/node-jwks-rsa-promisified#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "jwks-rsa": "^1.2.1"
+  },
+  "peerDependencies": {
+    "jwks-rsa": "^1.2.1"
+  }
+}
