@@ -1,6 +1,6 @@
 {
   "name": "jwks-rsa-promisified",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promisified version of auth0/node-jwks-rsa, retrieve RSA public keys from a JWKS endpoint",
   "main": "index.js",
   "scripts": {
